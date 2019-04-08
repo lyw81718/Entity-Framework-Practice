@@ -10,3 +10,6 @@ C:\Users\xxlap\source\repos\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompile
 C:\Users\xxlap\source\repos\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
 C:\Users\xxlap\source\repos\DbFirst\DbFirst\obj\Debug\DbFirst.exe
 C:\Users\xxlap\source\repos\DbFirst\DbFirst\obj\Debug\DbFirst.pdb
+D:\Github\Entity-Framework-Practice\DbFirst\bin\Debug\DbFirst.exe.config
+D:\Github\Entity-Framework-Practice\DbFirst\obj\Debug\DbFirst.exe
+D:\Github\Entity-Framework-Practice\DbFirst\obj\Debug\DbFirst.pdb
